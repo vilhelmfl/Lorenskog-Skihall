@@ -1,2 +1,2 @@
-# L-renskog-Skihall
+# Lørenskog-Skihall
 Et EDGE prosjekt
